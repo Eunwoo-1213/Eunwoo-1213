@@ -1,7 +1,7 @@
 ### Welcome my git hub profile 😸😸
 <div align = "left">
   
-![header](https://capsule-render.vercel.app/api?type=slice&color=000000&height=150&section=header&text=😺Eunwoo😺&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=wave&color=000011&height=150&section=header&text=😺Eunwoo😺&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 
 📫eunwoo4957@gmail.com
 
